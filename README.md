@@ -1,6 +1,6 @@
-# goodReadMeGenerator
+# Audio Rocks
 ## description
-README generator 
+Bass face 210 
 
 ## table of contents
 
@@ -22,7 +22,7 @@ To install the dependencies for this application run npm
 
 ## Usage
 
-To install the dependencies for this application run na
+To install the dependencies for this application run yes
 
 ## License
 
@@ -34,7 +34,7 @@ To install the dependencies for this application run undefined
 
 ## Tests
 
-To install the dependencies for this application run na
+To install the dependencies for this application run run f
 
 ## Questions
 
